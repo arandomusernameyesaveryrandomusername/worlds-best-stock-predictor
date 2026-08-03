@@ -36,3 +36,12 @@ cd worlds-best-stock-predictor
 
 # Install dependencies (optional, we actually only use random)
 pip install -r requirements.txt
+
+
+## ⚠️ **IMPORTANT: THIS IS A JOKE REPO**
+
+**PLEASE DON'T USE THIS AS INVESTMENT ADVICE**
+
+Like, seriously. Don't. We're literally just using `random.choice(['UP', 'DOWN'])` and adding fancy words.
+
+**PLSPLSPLSPLSPLSPLSPLS** 🙏
