@@ -37,6 +37,7 @@ cd worlds-best-stock-predictor
 # Install dependencies (optional, we actually only use random)
 pip install -r requirements.txt
 
+```
 
 ## ⚠️ **IMPORTANT: THIS IS A JOKE REPO**
 
