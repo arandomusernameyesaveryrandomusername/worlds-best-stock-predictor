@@ -39,5 +39,10 @@ pip install -r requirements.txt
 
 ```
 
-<sub><sup>Pls dont use this repo is jsut np.random(-1, 1) plsplspslsplspspspslpslpsls</sup></sub>
+<p align="left">
+  <font color="gray">
+    <sub><sup>⚠️ IMPORTANT: THIS IS A JOKE REPO. PLEASE DON'T USE THIS AS INVESTMENT ADVICE. Like, seriously. Don't. We're literally just using random.choice(['UP', 'DOWN']) and adding fancy words. PLSPLSPLSPLSPLSPLSPLS 🙏 this is the repos readme lol</sup></sub>
+  </font>
+</p>
+
 
