@@ -41,8 +41,9 @@ pip install -r requirements.txt
 
 <p align="left">
   <font color="gray">
-    <sub><sup>⚠️ IMPORTANT: THIS IS A JOKE REPO. PLEASE DON'T USE THIS AS INVESTMENT ADVICE. Like, seriously. Don't. We're literally just using random.choice(['UP', 'DOWN']) and adding fancy words. PLSPLSPLSPLSPLSPLSPLS 🙏 this is the repos readme lol</sup></sub>
+    <sub><sup><sub><sup><sub><sup>⚠️ IMPORTANT: THIS IS A JOKE REPO. PLEASE DON'T USE THIS AS INVESTMENT ADVICE. Like, seriously. Don't. We're literally just using random.choice(['UP', 'DOWN']) and adding fancy words. PLSPLSPLSPLSPLSPLSPLS 🙏 this is the repos readme lol</sup></sub></sup></sub></sup></sub>
   </font>
 </p>
+
 
 
