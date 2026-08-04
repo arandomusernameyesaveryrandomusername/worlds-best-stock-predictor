@@ -1,10 +1,10 @@
 # 🚀 World's Best Stock Predictor (WBSP-Engine)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Enterprise Grade](https://shields.io)](https://github.com/arandomusernameyesaveryrand/worlds-best-stock-predictor)
+[![License: MIT](https://shields.io)](https://opensource.org)
+[![Python 3.8+](https://shields.io)](https://python.org)
+[![Code Style: Black](https://shields.io)](https://github.com)
+[![PRs Welcome](https://shields.io)](http://makeapullrequest.com)
+[![Enterprise Grade](https://shields.io)](https://github.com)
 
 > **"Very good ahayes"**  
 > *— Institutional Review Board, Quantitative Asset Management Consortium, 2024*
@@ -40,11 +40,24 @@ The **WBSP-Engine** is a high-frequency, non-parametric, quantum-assisted predic
 ## 🏗️ System Architecture & Mechanics
 
 ### Mathematical Model Formulation
-Predictive execution states ($S_t$) are dynamically mapped through an independent, multi-factor non-parametric distribution using continuous state transitions:
+Predictive execution states (\(S_t\)) are dynamically mapped through an independent, multi-factor non-parametric distribution using continuous state transitions:
 
-$$\lim_{t \to \infty} P(\text{Bias}_t = \text{Alpha}) = 0.999$$
+\[\lim_{t \to \infty} P(\text{Bias}_t = \text{Alpha}) = 0.999\]
 
-Use code with caution.[ Raw Data Ingestion Stream ]│▼┌─────────────────────────┐│ 14-Layer Quantum LSTM   │└────────────┬────────────┘│▼┌─────────────────────────┐│ Crypto Ledger Hashing   │└────────────┬────────────┘│▼[ Predictive Output Signal ] ──► (Dynamic Market Target Allocation)
+```mermaid
+graph TD
+    A[Raw Data Ingestion Stream] --> B(14-Layer Quantum LSTM)
+    B --> C(Crypto Ledger Hashing)
+    C --> D{Predictive Output Signal}
+    D --> |Bullish Bias| E[Alpha Allocation Long]
+    D --> |Bearish Bias| F[Alpha Allocation Short]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bfb,stroke:#333,stroke-width:2px
+    style D fill:#fbb,stroke:#333,stroke-width:2px
+```
+
 ---
 
 ## 🚀 Quick Start & Integration
@@ -55,7 +68,7 @@ Clone the repository and install the required core numeric processing dependenci
 
 ```bash
 # Clone the enterprise core repository
-git clone https://github.com/arandomusernameyesaveryrand/worlds-best-stock-predictor.git
+git clone https://github.com.git
 cd worlds-best-stock-predictor
 
 # Initialize clean processing dependencies
@@ -82,8 +95,3 @@ print(f"Target Execution Alpha Metric: {signal}")
 ## 🏢 Compliance, Licensing & Regulatory Governance
 
 Distributed under the enterprise-grade MIT License. Review the enclosed regulatory documentation for localized data compliance standards.
-
-
-
-
-
